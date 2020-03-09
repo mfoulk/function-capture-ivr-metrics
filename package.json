@@ -1,0 +1,12 @@
+{
+  "name": "function-capture-ivr-metrics",
+  "version": "1.0.0",
+  "description": "Twilio Functions for capturing IVR metrics in Flex Insights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Terence Rogers (Twilio)",
+  "license": "MIT",
+  "dependencies": {}
+}
